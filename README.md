@@ -1,6 +1,6 @@
 - 👋 Hola, yo soy @robertomendoza97
 - 👀 Me interesa la programacion y la tecnologia
-- 🌱 Actualmente estoy aprendiendo graphQL, Go, java
+- 🌱 Actualmente estoy aprendiendo graphQL, Go, Kotlin y android studio
 - 💞️ Busco colaborar con otros programadores y aprender tecnologias nuevas y actualizadas
 - 📫 How to reach me : robertoemendoza@gmail.com
 
